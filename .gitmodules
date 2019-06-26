@@ -1,3 +1,6 @@
 [submodule "Python_Sudoku"]
 	path = Python_Sudoku
 	url = https://github.com/Ikkimaru/Python_Sudoku
+[submodule "Audio_Spectrogram"]
+	path = Audio_Spectrogram
+	url = https://github.com/Ikkimaru/Audio_Spectrogram.git
