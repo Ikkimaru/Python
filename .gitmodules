@@ -1,0 +1,3 @@
+[submodule "Python_Sudoku"]
+	path = Python_Sudoku
+	url = https://github.com/Ikkimaru/Python_Sudoku
