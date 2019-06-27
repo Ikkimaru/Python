@@ -4,3 +4,6 @@
 [submodule "Audio_Spectrogram"]
 	path = Audio_Spectrogram
 	url = https://github.com/Ikkimaru/Audio_Spectrogram.git
+[submodule "MovieIconsForFolders"]
+	path = MovieIconsForFolders
+	url = https://github.com/Ikkimaru/MovieIconsForFolders.git
